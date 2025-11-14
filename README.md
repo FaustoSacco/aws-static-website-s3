@@ -10,8 +10,9 @@ This project hosts a static website using **Amazon S3** and delivers it globally
 - Git & GitHub
 - VS Code
 
-## 🌍 Live CloudFront URL
-👉 https://YOUR-CLOUDFRONT-DOMAIN.cloudfront.net
+🌍 Live CloudFront URL
+👉 https://d31z5mdzs5x5ee.cloudfront.net
+
 
 ## 🚀 What I Learned
 - How to host a static site on S3
